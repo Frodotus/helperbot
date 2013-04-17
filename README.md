@@ -4,7 +4,7 @@ A Node.js Minecraft bot that helps you out by performing menial tasks.
 
 ## Current Project Status
 
-Supports Minecraft 1.4.7
+Supports Minecraft 1.5.1
 
 ## Available In-game Commands
 

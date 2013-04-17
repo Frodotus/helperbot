@@ -18,13 +18,13 @@
   "author": "Darthfett",
   "license": "BSD",
   "dependencies": {
-    "mineflayer": "0.0.35",
-    "mineflayer-navigate": "0.0.8",
+    "mineflayer": "0.x.x",
+    "mineflayer-navigate": "0.x.x",
     "optimist": "~0.3.5",
     "prompt": "~0.2.9",
     "requireindex": "~1.0.0",
     "string": "~1.1.0",
-    "mineflayer-blockfinder": "0.0.5",
-    "mineflayer-scaffold": "0.0.5"
+    "mineflayer-blockfinder": "0.x.x",
+    "mineflayer-scaffold": "0.x.x"
   }
 }
